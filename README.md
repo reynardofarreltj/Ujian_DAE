@@ -46,3 +46,15 @@ Jika dibandingkan penumpang yang meninggal sesuai gender adalah pria dengan 453 
 Berdasarkan data tersebut dapat dilihat bahwa gender wanita lebih diprioritaskan untuk diselamatkan dibanding dengan pria sehingga memiliki tingkat keselamatan yang lebih tinggi.
 
 #### 6. Tarif dan Kelas Penumpang
+Penumpang yang membayar tinggi akan masuk ke dalam kelas 1 dan sedikit masuk kelas 2 namun penumpang yang membayar biaya menengah-tinggi sebagian besar akan masuk ke dalam kelas tiga dan jumlah penumpang yang masuk kelas dua dan satu hampir setara. Lalu penumpang yang membayar tarif menengah-rendah kebanyakan akan masuk ke dalam kelas tiga namun juga masuk ke dalam kelas dua dan penumpang yang membayar tarif rendah pasti akan masuk kelas tiga.
+##### Insight:
+Bedasarkan data tersebut dapat dilihat bahwa ada banyak faktor-faktor tersembunyi yang dapat mempengaruhi biaya tarif penumpang sehingga biaya per kelas tidak terlalu pasti dan masih fleksibel.
+
+#### 7. 
+
+---
+
+### Kesimpulan
+Jadi dari pengelolaan dataset titanic ini dapat ditarik kesimpulan bahwa data yang tersedia berkaitan dengan perilaku manusia dan struktur sosial. Semua variabel di dalam titanic ini tidak semuanya setara dan memiliki tingkat pengaruhnya sendiri. Maka jika ditarik kesimpulan terdapat tiga variabel yang sangat berpengaruh pada tingkat keselamatan pada bencana titanic, yaitu umur sebagai prioritas, kelas sebagai akses(untuk keselamatan), dan gender untuk norma(kurang lebih sama dengan prioritas keselamatan).
+
+### Pengunaan Insight

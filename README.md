@@ -29,3 +29,20 @@ Dari data tersebut dapat dilihat sebagian besar mayoritas penumpang berada di us
 Visualisasi dilakukan dengan heatmap dan dapat dilihat penumpang dengan rentan umur 20-50 memiliki tingkat kematian yang sangat tinggi dan penumpang selain umur tersebut memiliki tingkat kematian yang lebih rendah.
 ##### Insight:
 Dari data tersebut dapat dilihat penumpang dengan umur yang muda lebih diprioritaskan untuk diselamatkan sehingga memiliki peluang keselamatan yang tinggi dibandingkan dengan penumpang dewasa yang memiliki peluang keselamatan rendah.
+
+#### 3. Umur Dengan Kelas Penumpang
+Sebagian besar penumpang kelas tiga terletak pada rentan umur yang muda, kelas dua terletak pada rentan umur yang dewasa, dan kelas satu terletak pada rentang umur yang tua.
+##### Insight:
+Dari data tersebut dapat dilihat bahwa semakin tua penumpang maka semakin besar kemungkinannya untuk terletak pada kelas yang lebih tinggi.
+
+#### 4. Tingkat Keselamatan Dengan Kelas Penumpang
+Tingkat keselamatan penumpang kelas tiga sangat rendah sedangkan tingkat keselamatan kelas dua hampir setara dan tingkat keselamatan kelas satu sangatlah tinggi.
+##### Insight:
+Dari data tersebut dapat dilihat bahwa semakin tinggi kelas penumpang maka tingkat selamat dari bencana titanic naik secara signifikan karena penumpang memiliki kekayaan untuk menjadikan diri mereka sebagai prioritas diselamatkan.
+
+#### 5. Tingkat Keselamatan Dengan Gender
+Jika dibandingkan penumpang yang meninggal sesuai gender adalah pria dengan 453 kematian dan 108 selamat lalu wanita dengan 81 kematian dan 233 keselamatan.
+##### Insight:
+Berdasarkan data tersebut dapat dilihat bahwa gender wanita lebih diprioritaskan untuk diselamatkan dibanding dengan pria sehingga memiliki tingkat keselamatan yang lebih tinggi.
+
+#### 6. Tarif dan Kelas Penumpang

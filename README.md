@@ -1,4 +1,4 @@
-# Laporan Ujian DAE 
+ # Laporan Ujian DAE 
 ## (Reynardo Farrel Tjahjono / c14250124) / (Raymond Chandler Gunawan / c14250121)
 
 ---
@@ -15,8 +15,10 @@ Data dibersihkan dengan membuang data-data yang tidak diperlukan atau data yang 
 Data di proses melalui berbagai metode untuk mendapatkan hasil akhir yang dapat divisualisasikan
 #### 3. Data visualization
 Data yang sudah diproses akan divisualisasikan dalam berbagai bentuk untuk mengintepretasikannya dan mendapat insight yang berguna.
-#### Bonus
+#### 4. Bonus
 Pada workflow digunakan decision tree learner untuk memprediksi penumpang yang selamat atau tidak berdasarkan variabel-variabel yang tersedia pada data.
+![WhatsApp Image 2025-12-10 at 08 17 30_5083c772](https://github.com/user-attachments/assets/8beb9258-674b-4c65-9c90-83d120e271c4)
+0 memiliki arti mati dan 1 memiliki arti hidup, gambar tersebut menunjukkan keakuratan prediksi decision tree learner dengan scorer.
 
 ---
 

@@ -23,7 +23,9 @@ Pada workflow digunakan decision tree learner untuk memprediksi penumpang yang s
 ### Intepretasi dan Insight
 
 #### 1. Umur Penumpang
-Sebagian besar umur penumpang titanic berada di rentan usia 31-50 dengan jumlah 318 penumpang dan diikuti dengan rentan usia 20-30 dengan jumlah 306.
+<img width="696" height="376" alt="image" src="https://github.com/user-attachments/assets/ef92b432-2fa1-4116-a63f-e0ec75ad9383" />
+
+Sebagian besar umur penumpang titanic berada di rentan usia 31-50 dengan jumlah 226 penumpang dan diikuti dengan rentan usia 20-30 dengan jumlah 236.
 ##### Insight:
 Dari data tersebut dapat dilihat sebagian besar mayoritas penumpang berada di usia produktif untuk bekerja sehingga dapat ditarik kesimpulan bahwa kapal titanic adalah kapal yang membawa tenaga kerja dan pembisnis dengan tujuan untuk produktivitas dan mitgrasi.
 

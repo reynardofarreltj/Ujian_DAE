@@ -48,7 +48,7 @@ Tingkat keselamatan penumpang kelas tiga sangat rendah sedangkan tingkat keselam
 Dari data tersebut dapat dilihat bahwa semakin tinggi kelas penumpang maka tingkat selamat dari bencana titanic naik secara signifikan karena penumpang memiliki kekayaan untuk menjadikan diri mereka sebagai prioritas diselamatkan.
 
 #### 5. Tingkat Keselamatan Dengan Gender
-![WhatsApp Image 2025-12-09 at 19 17 50_4d2d7474](https://github.com/user-attachments/assets/17d069b0-7ca9-4f88-bbb7-763e18c8ab55)
+![WhatsApp Image 2025-12-10 at 08 02 02_9166f4d0](https://github.com/user-attachments/assets/319a8a83-feaf-439c-aa16-f71ec6f82d66)
 Jika dibandingkan penumpang yang meninggal sesuai gender adalah pria dengan 466 kematian dan 109 selamat lalu wanita dengan 81 kematian dan 233 keselamatan.
 ##### Insight:
 Berdasarkan data tersebut dapat dilihat bahwa gender wanita lebih diprioritaskan untuk diselamatkan dibanding dengan pria sehingga memiliki tingkat keselamatan yang lebih tinggi.

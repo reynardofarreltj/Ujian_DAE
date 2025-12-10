@@ -9,7 +9,7 @@ Dataset yang dipakai untuk diinterpretasi dan mendapat insight adalah dataset ti
 ---
 
 ### Proses Pengelolahan Data di KNIME
-#### 1. Data Preperation
+### 1. Data Preperation
 <img width="556" height="324" alt="image" src="https://github.com/user-attachments/assets/c48efebb-7725-43f1-96ff-cc24789ce928" />
 
 Data disiapkan melalui tiga tahap:
@@ -31,13 +31,34 @@ C. Number to String
 
 Beberapa variabel diubah menjadi string agar dapat dikelola.
 
-#### 2. Data processing
+### 2. Data processing
 Data di proses melalui berbagai metode untuk mendapatkan hasil akhir yang dapat divisualisasikan.
+Berikut adalah _Settingan_ penting yang perlu diketahui:
 
-#### 3. Data visualization
+A. Pengelompokan Usia Berdasarkan Rentan
+![WhatsApp Image 2025-12-10 at 09 02 06_43a8987c](https://github.com/user-attachments/assets/5afe3495-2718-4dc0-ace9-925f0200a0a6)
+
+B. Pengelompokan Tarif Berdasarkan Quartil
+![WhatsApp Image 2025-12-10 at 09 01 26_5a0054dd](https://github.com/user-attachments/assets/3f022e78-0d0f-4b57-a615-e255faa77850)
+
+C. Rule Engine Untuk Pengklasifikasian Sendiri atau Tidak
+![WhatsApp Image 2025-12-10 at 09 00 55_1aa81925](https://github.com/user-attachments/assets/138404a0-e958-48b5-b2f6-f53e9066bba9)
+
+D. Rumus Jumlah Berpergian
+![WhatsApp Image 2025-12-10 at 09 00 37_dd16d304](https://github.com/user-attachments/assets/b5f4767f-0555-42fa-b37f-d23f6417871e)
+
+E. Proses Pengkalisfikasian Kelas yang Dipecah Menjadi Tiga Untuk Menghilang Outlire
+<img width="471" height="499" alt="image" src="https://github.com/user-attachments/assets/6bf5ca49-b474-44df-8bb8-e10d872df9d4" />
+
+### 3. Data visualization
 Data yang sudah diproses akan divisualisasikan dalam berbagai bentuk untuk mengintepretasikannya dan mendapat insight yang berguna.
-#### 4. Bonus
+
+### 4. Bonus
 Pada workflow digunakan decision tree learner untuk memprediksi penumpang yang selamat atau tidak berdasarkan variabel-variabel yang tersedia pada data.
+
+<img width="563" height="282" alt="image" src="https://github.com/user-attachments/assets/74912da4-6679-48b8-b2c5-fe7ae40879de" />
+
+Hasil Perbandingan Dengan Scorer:
 ![WhatsApp Image 2025-12-10 at 08 17 30_5083c772](https://github.com/user-attachments/assets/8beb9258-674b-4c65-9c90-83d120e271c4)
 0 memiliki arti mati dan 1 memiliki arti hidup, gambar tersebut menunjukkan keakuratan prediksi decision tree learner dengan scorer.
 

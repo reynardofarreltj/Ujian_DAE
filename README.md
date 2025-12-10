@@ -104,13 +104,13 @@ Penumpang yang membayar tinggi akan masuk ke dalam kelas 1 dan sedikit masuk kel
 Bedasarkan data tersebut dapat dilihat bahwa ada banyak faktor-faktor tersembunyi yang dapat mempengaruhi biaya tarif penumpang sehingga biaya per kelas tidak terlalu pasti dan masih fleksibel.
 
 #### 7. Tarif dan Tempat Keberangkatan
-![WhatsApp Image 2025-12-09 at 22 24 54_a7ed3a04](https://github.com/user-attachments/assets/2f9cdc3c-693a-4bd1-bca0-e704f7c452ed)
+![WhatsApp Image 2025-12-09 at 22 26 53_999a4d14](https://github.com/user-attachments/assets/6c78ca64-25b2-48b8-9da0-29ef805466c0)
 Tempat keberangkatan kapal titanic terdapat 3 wilayah yaitu, Cherbourg, Southampton, dan Queenstown. Sebagian besar penumpang berangkat dari wilayah southampton membayar tarif yang rendah, lalu sebagian besar penumpang yang berangkat dari cherbourg membayar tarif yang mahal. Selain itu, sebagian besar penumpang yang berangkat dari Queenstown membayar tarif yang murah.
 ##### Insight:
 Dari data tersebut dapat dilihat bahwa penumpang dari cherbourg rata-rata kaya, penumpang dari southampton dapat dikatakan sebagai umum karena persebaran tarif merata, dan penumpang dari Queenstown rata-rata miskin.
 
 #### 8. Tarif dan Jumlah Berpergian
-![WhatsApp Image 2025-12-09 at 22 26 53_999a4d14](https://github.com/user-attachments/assets/6c78ca64-25b2-48b8-9da0-29ef805466c0)
+![WhatsApp Image 2025-12-09 at 22 24 54_a7ed3a04](https://github.com/user-attachments/assets/2f9cdc3c-693a-4bd1-bca0-e704f7c452ed)
 Rata-rata orang yang berdua hingga berempat akan membayar tarif yang sangat mahal dan rata-rata orang yang sendirian dan lebih dari empat akan membayar tarif yang sangat murah.
 ##### Insight:
 Dari data tersebut dapat dilihat keluarga yang kecil atau pasangan akan membayar tarif yang mahal sedangkan penumpang yang sendirian atau membawa keluarga sangat besar akan membayar tarif yang murah.

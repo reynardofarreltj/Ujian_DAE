@@ -9,10 +9,31 @@ Dataset yang dipakai untuk diinterpretasi dan mendapat insight adalah dataset ti
 ---
 
 ### Proses Pengelolahan Data di KNIME
-#### 1. Data cleaning
-Data dibersihkan dengan membuang data-data yang tidak diperlukan atau data yang duplikat dengan column filter, lalu missing value yang terdapat pada data dihilangkan dengan mencari nilai yang dapat menggantikannya melalui missing value. Lalu, outlire pada data dihilangkan untuk memperbaiki ketidakakuratan data.
+#### 1. Data Preperation
+<img width="556" height="324" alt="image" src="https://github.com/user-attachments/assets/c48efebb-7725-43f1-96ff-cc24789ce928" />
+
+Data disiapkan melalui tiga tahap:
+
+A. Column Filter   
+<img width="446" height="587" alt="image" src="https://github.com/user-attachments/assets/4e6af53d-e95b-400b-8303-886ee3dc9f9f" />
+
+Data dibersihkan dengan membuang data-data yang tidak diperlukan atau data yang duplikat. Variabel pclass adalah duplikat dan data deck tidak dipakai sehingga dihilangkan dengan column Filter.
+
+B. Missing Value
+
+<img width="662" height="589" alt="image" src="https://github.com/user-attachments/assets/76fb91cd-8b11-42d3-baad-9c483b280240" /> <img width="666" height="393" alt="image" src="https://github.com/user-attachments/assets/9df72885-d217-4d9a-a15f-5f8557a3f442" />
+
+Variabel dengan missing value diisi dengan nilai yang diperkirakan cocok dengan variabel tersebut.
+
+C. Number to String
+
+<img width="448" height="612" alt="image" src="https://github.com/user-attachments/assets/67f47d8e-8adc-4dfb-99b8-aa493642f392" />
+
+Beberapa variabel diubah menjadi string agar dapat dikelola.
+
 #### 2. Data processing
-Data di proses melalui berbagai metode untuk mendapatkan hasil akhir yang dapat divisualisasikan
+Data di proses melalui berbagai metode untuk mendapatkan hasil akhir yang dapat divisualisasikan.
+
 #### 3. Data visualization
 Data yang sudah diproses akan divisualisasikan dalam berbagai bentuk untuk mengintepretasikannya dan mendapat insight yang berguna.
 #### 4. Bonus
